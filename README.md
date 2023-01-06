@@ -19,5 +19,3 @@ Online Guide: https://www.martinloren.com/hscope-guide/
    <li>Suggest new features.</li>
    <li>Promote HScope to your friends.</li>
 </ul>
-<p align="justify"><strong>HScope licenses are provided at a low-controlled fee. Please note that it takes a lot of time and effort to build, test and maintain it and to interact with the growing community of users. If you find HScope useful and want to support further development, please consider making a small PayPal donation. Every little bit counts! If you want to push a new feature, I'll gladly accept a donation for it.</strong></p>
-<p align="center"><a href="https://www.paypal.com/paypalme/martinloren" rel="nofollow"><img src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif"></a> </p>
